@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Zillow to Google Maps",
-  "description": "Open Zillow listing on google maps",
+  "description": "Open the Zillow map on Google Maps",
   "version": "1.0",
 
   "browser_action": {
